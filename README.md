@@ -2,8 +2,7 @@
 Computer Science & Engineering student at Akdeniz University.
   
   - 🌱 I’m currently learning Swift language
-  - 📫 How to reach me: dumanIbrahm@gmail.com
-  - 
+  - 📫 How to reach me: dumanIbrahm@gmail.com 
   
 ## Technologies, Languages & Tools 🛠
  <a href="https://www.java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" /><a>
