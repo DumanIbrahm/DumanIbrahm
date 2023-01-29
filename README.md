@@ -1,7 +1,7 @@
 ### Hi there I'm Ibrahim👋
 Computer Science & Engineering student at Akdeniz University.
   
-  - 🌱 I’m currently learning Swift language
+  - 👀 I’m interested in Swift
   - 📫 How to reach me: dumanIbrahm@gmail.com 
   
 ## Technologies, Languages & Tools 🛠
