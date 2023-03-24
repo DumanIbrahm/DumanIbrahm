@@ -1,7 +1,7 @@
 ### Hi there I'm Ibrahim👋
 Computer Science & Engineering student at Akdeniz University.
   
-  - 👀 I’m interested in Mobile Programming
+  - 👀 I’m interested in Mobile Programming.
   - 📫 How to reach me: dumanIbrahm@gmail.com
   
   </a> <a href="https://github.com/DumanIbrahm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/1200px-Font_Awesome_5_brands_github.svg.png" alt="git" width="40" height="40"><a>
