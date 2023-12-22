@@ -2,7 +2,7 @@
 
 Computer Science & Engineering student at Akdeniz University.
 
-  - 🌱 I’m currently learning Flutter.
+  - 🌱 I’m currently learning Swift.
   - 👀 I’m interested in Mobile Programming.
   - 📫 How to reach me: dumanibrahm@gmail.com
 
