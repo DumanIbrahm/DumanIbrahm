@@ -1,6 +1,10 @@
-### Hi there I'm Ibrahim👋
 
-Computer Science & Engineering student at Akdeniz University.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DumanIbrahm&label=Profile%20views&color=0e75b6&style=flat" alt="DumanIbrahm" /> </p>  
+
+<h1 align="center">Hi there I'm Ibrahim👋</h1>  
+<h3 align="center">Computer Science & Engineering student at Akdeniz University.</h3>  
+
+
 
   - 🌱 I’m currently learning Swift.
   - 👀 I’m interested in Mobile Programming.
