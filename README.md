@@ -6,8 +6,8 @@
 
 
 
-  - 🌱 I’m currently learning Swift.
-  - 👀 I’m interested in Mobile Programming.
+  - 🌱 I’m currently developing my skills in Software Development.
+  - 👀 Exploring various technologies and working on personal projects.
   - 📫 How to reach me: dumanibrahm@gmail.com
 
   </a> <a href="https://github.com/DumanIbrahm"><img align = left src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/1200px-Font_Awesome_5_brands_github.svg.png" alt="git" width="40" height="40"><a>
