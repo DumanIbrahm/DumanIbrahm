@@ -1,38 +1,28 @@
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DumanIbrahm&label=Profile%20views&color=0e75b6&style=flat" alt="DumanIbrahm" /> </p>  
-
-<h1 align="center">Hi there I'm Ibrahim👋</h1>  
-<h3 align="center">Computer Science & Engineering student at Akdeniz University.</h3>  
-
+# 💫 About Me:
+- 🌱 I’m currently developing my skills in Software Development.<br>
+-  👀 Exploring various technologies and working on personal projects.<br>
+-   📫 How to reach me: dumanibrahm@gmail.com
 
 
-  - 🌱 I’m currently developing my skills in Software Development.
-  - 👀 Exploring various technologies and working on personal projects.
-  - 📫 How to reach me: dumanibrahm@gmail.com
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dumanibrahm/)  [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:dumanibrahm@gmail.com)  [![Website](https://img.shields.io/badge/Website-%234AB0E3.svg?logo=google-chrome&logoColor=white)](https://dumanibrahim.com)
 
-  </a> <a href="https://github.com/DumanIbrahm"><img align = left src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/1200px-Font_Awesome_5_brands_github.svg.png" alt="git" width="40" height="40"><a>
-  </a> <a href="linkedin.com/in/dumanibrahm"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="git" width="40" height="40"><a>
-  
+
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DumanIbrahm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DumanIbrahm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DumanIbrahm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DumanIbrahm&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
-  
-### Technologies, Languages & Tools 🛠
- <a href="https://www.java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" /><a>
- <a href="https://www.swift.org/" target="_blank"> <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="swift" width="40" height="40"/><a> 
- </a> <a href="https://flutter.dev" target="_blank"><img src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="Flutter" width="40" height="40"><a>
-</a> <a href="https://kotlinlang.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" alt="Kotlin" width="40" height="40"><a>
-  </a> <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"><a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40" /><a> 
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a> <a href="https://www.arduino.cc" target="_blank"><img src="https://www.robotsepeti.com/arduino-baslangic-seti-arduino-set-9244-48-B.jpg" alt="Arduino" width="40" height="40"><a>
-    </a> <a href="https://www.labcenter.com" target="_blank"><img src="https://www.gezginler.net/indir/resim-grafik/proteus-1585557056.png" alt="Proteus" width="40" height="40"><a>
-    
-    
-  
-  
----
-    
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumanIbrahm&layout=compact&hide=html" alt="DumanIbrahm" />
-<img src="https://github-readme-stats.vercel.app/api?username=DumanIbrahm&show_icons=true" alt="DumanIbrahm" />
+[![](https://visitcount.itsvg.in/api?id=DumanIbrahm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
